@@ -1,5 +1,5 @@
 {
-  "name": "angular5-social-login",
+  "name": "angular5-social-login-additional",
   "version": "1.0.9",
   "description": "Agular 5 : Social Login (Facebook and Google)",
   "scripts": {
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sabyasachibiswal/angular5-social-login"
+    "url": "https://github.com/edhelfredmanzon/angular5-social-login-added-params"
   },
   "author": {
-    "name": "Sabyasachi Biswal",
-    "email": "sabyasachi.biswal4@gmail.com"
+    "name": "Edhelfred Manzon",
+    "email": "edhelfred.manzon@novare.com.hk"
   },
   "keywords": [
     "angular",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sabyasachibiswal/angular5-social-login/issues"
+    "url": "https://github.com/edhelfredmanzon/angular5-social-login-added-params/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
